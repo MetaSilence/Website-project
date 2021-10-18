@@ -9,7 +9,7 @@ The size of my urls is like that because for some reason it doesn't want to disp
 
 Here are my "inspirations" for my code: 
 
-formspark gave me my form code, though i did get their product and they have a free shoutout everythime someone sends a message. 
+formspark gave me my form code, though i did get their product and they have a free shoutout everytime someone sends a message. 
 
 w3 didn't give me my navbar, though i stole the color scheme. (I made my navbar using CSS grid, not toying with padding.)
 
