@@ -7,6 +7,8 @@ Ignore my image formating for better grading quality.
 
 The size of my urls is like that because for some reason it doesn't want to display a tinyfied url.
 
+My contact us section looks ugly, but I didn't want to start playing with my form code and break it. 
+
 Here are my "inspirations" for my code: 
 
 formspark gave me my form code, though i did get their product and they have a free shoutout everytime someone sends a message. 
@@ -18,7 +20,7 @@ Also, since my code does not include any Js (my form is built in html and the wo
 
         nom : <input type="text" id="InputNom" value=""> <br>
         message : <input type="text" id="InputMessage" value=""> <br>
-        <button id="button1" onclick="affiche()">Allo</button>
+        <button id="button1" onclick="affiche()">Send!</button>
         <div id="affiche"></div>
         <script>
             function affiche() {
@@ -32,5 +34,7 @@ Also, since my code does not include any Js (my form is built in html and the wo
                 affiche.innerHTML= text;
             }
         </script>
+
+If you put this code inside a working html document, it should theoratically work.
 
 Thats about it.
